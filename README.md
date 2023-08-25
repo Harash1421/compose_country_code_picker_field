@@ -3,7 +3,7 @@
 compose_country_code_picker_field is a modern Android library designed to simplify the task of integrating a country selection field into your Android applications. Built with Kotlin and leveraging the power of Jetpack Compose, this library offers a seamless and intuitive experience for users to select countries.
 
 ## Screenshot:
-<img src="https://github.com/Harash1421/country_picker_field/blob/master/app/src/main/res/drawable/compose_country_code_picker_field_review.png?raw=true" height="720" width="350" >
+<img src="https://github.com/Harash1421/compose_country_code_picker_field/blob/master/app/src/main/res/drawable/country_picker_field_review.png?raw=true" height="720" width="350" >
 
 
 ## Features:
