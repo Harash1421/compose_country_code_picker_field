@@ -41,7 +41,7 @@ In your module's build.gradle file, add:
 
 ```
 dependencies {
-    implementation 'com.github.Harash1421:country_picker_field:1.0.0'
+    implementation 'com.github.Harash1421:compose_country_code_picker_field:1.0.0'
 }
 ```
 
