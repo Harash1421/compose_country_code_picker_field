@@ -54,7 +54,7 @@ To utilize CountryPickerField in your Composable function:
 ```kotlin
 @ExperimentalMaterial3Api
 @Composable
-public fun CountryPickerField(
+public fun CountryCodePickerField(
     modifier: Modifier = Modifier,
     secondStyle: Boolean = false,
     value: String,
@@ -84,7 +84,7 @@ val textFieldColors = TextFieldDefaults.outlinedTextFieldColors(
     unfocusedBorderColor = Color.White,
 )
 
-CountryPickerField(
+CountryCodePickerField(
     modifier = Modifier.fillMaxWidth().padding(25.dp).background(Color.White),
     secondStyle = false,
     value = phoneNumber,
