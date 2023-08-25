@@ -81,7 +81,7 @@ val getPhoneNumber = remember { mutableStateOf("") }
 val textFieldColors = TextFieldDefaults.outlinedTextFieldColors(
     focusedBorderColor = Color.Black,
     unfocusedBorderColor = Color.White,
-    unfocusedBorderColor = Color.White,
+    cursorColor = Color.White
 )
 
 CountryCodePickerField(
